@@ -1,4 +1,4 @@
-# 📘 Week2AndWeek3 – Sorting & Searching Algorithms Project
+# 📘 Week3AndWeek4 – Sorting & Searching Algorithms Project
 
 ## 📌 Overview
 
